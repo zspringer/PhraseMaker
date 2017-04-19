@@ -1,2 +1,2 @@
 # PhraseMaker
-Just a random phrase maker
+Just a random phrase maker with inline JS
